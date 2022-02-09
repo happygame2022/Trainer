@@ -1,6 +1,6 @@
 # Note:   
 - Single player only.  
-- The modifier reads the modified memory, and a few anti-virus software will prompt the risk. 
+ 
 ---
 # Trainer download:
 
